@@ -1,1 +1,1 @@
-# saat.github.io
+Çalışan dinamik bir saat yaptım kronometreye de sahip.
